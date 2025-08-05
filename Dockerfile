@@ -1,1 +1,1 @@
-From feiyu563/prometheus-alert:v4.9.1
+From ghcr.io/lucky-aeon/agentx:latest
